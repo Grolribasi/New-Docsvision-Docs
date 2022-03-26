@@ -14,3 +14,6 @@ The articles tell the story how I converted the _Docsvision_ docs to a new forma
 
 English versions of articles can be found in `EN` folder::
 Thank you for your interest.
+
+Я даю своё полное разрешение на копирование и любое использование текста и материалов.
+Feel free to share/copy or otherwise use the text and materials.
