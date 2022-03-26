@@ -1,10 +1,12 @@
 = Здесь лежат две статьи / Here lie two articles
 
 * Точнее две части одной статьи.
-* More precisely, two parts of a single article.
++
+More precisely, two parts of a single article.
 
 * Статьи рассказывают о том, как  я переводил документация _Docsvision_ в новый формат (из DITA AciiDoc).
-* The articles tell the story how I converted the _Docsvision_ docs to a new format (from DITA to AsciiDoc).
++
+The articles tell the story how I converted the _Docsvision_ docs to a new format (from DITA to AsciiDoc).
 
 Русские версии статей находятся в папке `RU`::
 Спасибо за интерес.
