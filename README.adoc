@@ -8,6 +8,7 @@ More precisely, two parts of a single article.
 +
 The articles tell the story how I converted the _Docsvision_ docs to a new format (from DITA to AsciiDoc).
 
+//
 Русские версии статей находятся в папке `RU`::
 Спасибо за интерес.
 
